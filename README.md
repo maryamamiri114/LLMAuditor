@@ -67,6 +67,31 @@
 
 <p>Next, you will be asked to review the question variations as a group. The purpose of this evaluation is to make sure that there is sufficient variety in the question variations. Each of the questions should sound like they are being asked by different people, or from different perspectives. There should be no near-duplicate questions. You will be asked to evaluate each question variation on a <strong>1-to-3</strong> scale for diversity.</p>
 
+<h2>Diversity Ratings Description</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Rating</th>
+            <th>Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><strong>1 - Low</strong></td>
+            <td>More than one pair of questions are similar, more than 3 of the questions are similar, or almost all the questions are similar.</td>
+        </tr>
+        <tr>
+            <td><strong>2 - Medium</strong></td>
+            <td>One pair of questions is very similar, while other questions are different from that pair of questions.</td>
+        </tr>
+        <tr>
+            <td><strong>3 - High</strong></td>
+            <td>Each question is sufficiently different from the others.</td>
+        </tr>
+    </tbody>
+</table>
+
 <h3>Example: Diversity Ratings</h3>
 
 <table>
